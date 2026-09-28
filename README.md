@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="450" alt="Claim Gate Demo" src="https://github.com/user-attachments/assets/d47cfaa3-5c5d-4e71-91c5-e5a2951c15e6" />
+  <img width="445" alt="Claim Gate Demo" src="https://github.com/user-attachments/assets/d47cfaa3-5c5d-4e71-91c5-e5a2951c15e6" />
 </p>
 
 
