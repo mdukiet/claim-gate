@@ -42,7 +42,7 @@ These problems matter most in regulated fields such as medical diagnostics, wher
 
 ### Five human decision points
 
-The AI can prepare options, analyze, recommend and generate. It cannot simulate, infer or assume approval. Humans decide at:
+The AI can prepare options, analyze, recommend and generate. It cannot simulate, grant or assume human approval. Humans decide at:
 
 1. Claim approval
 2. Narrative / angle approval
@@ -72,7 +72,7 @@ Evidence: internal lab report `LR-2025-014` for a fictional analyzer, "LumiCheck
 
 ## Status
 
-Claim Gate is a **self-initiated prototype (v1.2)**, my first LLM architecture experiment. It is in a real-world pilot state: the architecture is frozen, and changes are made only in response to concrete failures observed in use.
+Claim Gate is a **self-initiated prototype (v1.2)**, my first LLM architecture experiment. The architecture is currently frozen, with changes made only in response to concrete failures observed during testing.
 
 Known limits:
 
@@ -96,4 +96,4 @@ Copyright (c) 2026 Małgorzata Dukiet. **All rights reserved.** See [LICENSE](LI
 
 **Małgorzata Dukiet**: art director, brand strategist, creative systems / AI workflow design.
 
-Case study: [https://drive.google.com/file/d/1Wlo-GTUFVOyaBUsa26soB_hiDUUA4CO0/view?usp=drive]
+Case study: [View the full case study](https://drive.google.com/file/d/1Wlo-GTUFVOyaBUsa26soB_hiDUUA4CO0/view?usp=drive_link)
