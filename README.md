@@ -96,4 +96,4 @@ Copyright (c) 2026 Małgorzata Dukiet. **All rights reserved.** See [LICENSE](LI
 
 **Małgorzata Dukiet**: art director, brand strategist, creative systems / AI workflow design.
 
-Portfolio: [add your portfolio link here]
+Case study: [https://drive.google.com/file/d/1Wlo-GTUFVOyaBUsa26soB_hiDUUA4CO0/view?usp=drive]
