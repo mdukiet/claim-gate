@@ -9,7 +9,7 @@
 </p>
 
 An architectural exploration of how EU AI Act Human Oversight principles (Art. 14) can be applied to generative AI workflows in regulated communications.
-Claim Gate ensures that AI-generated marketing content remains aligned with evidence, prevents the model from quietly overstating claims, and keeps decision-making authority with humans — while still enabling teams to scale content production at speed.
+The Claim Gate architecture ensures that AI-generated marketing content remains aligned with evidence, prevents the model from quietly overstating claims, and keeps decision-making authority with humans — while enabling teams to scale content production at speed without losing persuasive strength.
 
 > The AI does not replace the workflow. It operates inside it.
 
