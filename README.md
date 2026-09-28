@@ -1,6 +1,13 @@
 # Claim Gate
 
+
 **An evidence-led governance architecture for AI-assisted marketing communication.**
+
+
+<p align="center">
+  <img width="450" alt="Claim Gate Demo" src="https://github.com/user-attachments/assets/d47cfaa3-5c5d-4e71-91c5-e5a2951c15e6" />
+</p>
+
 
 Claim Gate lets a team use AI to produce marketing content at speed, without the AI quietly overstating what the evidence supports and without decisions that belong to people slipping to the model.
 
