@@ -27,7 +27,7 @@ When AI writes marketing copy, three things tend to go wrong:
 | **Lost traceability** | Nobody can point from a sentence in the final banner back to the evidence behind it. |
 | **Unclear responsibility** | Approvals get implied by the model instead of made by a person. |
 
-These problems matter most in regulated fields such as medical diagnostics, where an unsupported claim is a compliance risk. That is why the test case for this project is medical diagnostics.
+These problems matter most in regulated fields such as medical diagnostics, where an unsupported claim is a compliance risk. 
 
 ## What it is (and what it is not)
 
