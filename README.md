@@ -32,6 +32,7 @@ These problems matter most in regulated fields such as medical diagnostics, wher
 ## What it is (and what it is not)
 
 - **It is** a single, structured prompt architecture of 51 sections. It defines a workflow, what the AI may do at each stage, and where a human must decide.
+- **It is tracked** in a companion Airtable base, which maintains prompt versions and the claim register separately from the AI chat where the workflow runs.
 - **It is not** software, an app, or a compliance tool. There is no custom interface. It runs inside a general-purpose AI chat (built and tested with ChatGPT and Claude), and it is enforced through instructions, not code.
 - **It is not** legal or regulatory advice. Human review remains required.
 
