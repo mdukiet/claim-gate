@@ -1,3 +1,4 @@
+<img src="assets/logo/Claim Gate logo transparent.png" alt="Logo Claim Gate" width="250" />
 
 # Claim Gate
 
