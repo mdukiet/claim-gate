@@ -7,9 +7,7 @@
 **An evidence-led governance architecture for AI-assisted marketing communication.**
 
 
-<p align="center">
-  <img width="445" alt="Claim Gate Demo" src="https://github.com/user-attachments/assets/d47cfaa3-5c5d-4e71-91c5-e5a2951c15e6" />
-</p>
+
 
 An architectural exploration of how EU AI Act Human Oversight principles (Art. 14) can be applied to generative AI workflows in regulated communications.
 The Claim Gate architecture ensures that AI-generated marketing content remains aligned with evidence, prevents the model from quietly overstating claims, and keeps decision-making authority with humans — while enabling teams to scale content production at speed without losing persuasive strength.
@@ -17,6 +15,12 @@ The Claim Gate architecture ensures that AI-generated marketing content remains 
 Test case: Medical diagnostics, selected because unsupported claims create measurable compliance exposure and require strict evidence-to-claim alignment.
 
 > The AI does not replace the workflow. It operates inside it.
+>
+> ## How it works
+
+![Claim Gate workflow](claim-gate-flowchart.png)
+
+*Simplified view of the workflow. Purple steps are human decisions; outlined steps are performed by the AI inside the boundaries the architecture defines.*
 
 ---
 
@@ -40,11 +44,6 @@ These problems matter most in regulated fields such as medical diagnostics, wher
 - **It is not** software, an app, or a compliance tool. There is no custom interface. It runs inside a general-purpose AI chat (built and tested with ChatGPT and Claude), and it is enforced through instructions, not code.
 - **It is not** legal or regulatory advice. Human review remains required.
 
-## How it works
-
-![Claim Gate workflow](claim-gate-flowchart.png)
-
-*Simplified view of the workflow. Purple steps are human decisions; outlined steps are performed by the AI inside the boundaries the architecture defines.*
 
 ### The Claim Gate has three verdicts
 
@@ -83,6 +82,12 @@ Evidence: internal lab report `LR-2025-014` for a fictional analyzer, "LumiCheck
 | LumiCheck showed 99% agreement with the reference method in lab testing (238/240 samples). | LR-2025-014 | Kate Wright (fictional) | Allowed | Supported by the evidence and clearly bounded to lab testing. |
 | LumiCheck showed 99% agreement with the reference method. | LR-2025-014 | Kate Wright (fictional) | Allowed with qualification | Supported, but the claim needs its limitation attached ("in lab testing"). |
 | LumiCheck is 99% accurate. | LR-2025-014 | n/a | **Blocked** | "Accurate" goes beyond agreement with a reference method. It extends the claim past the evidence boundary. |
+
+## Live Demo
+
+<p align="center">
+  <img width="445" alt="Claim Gate Demo" src="https://github.com/user-attachments/assets/d47cfaa3-5c5d-4e71-91c5-e5a2951c15e6" />
+</p>
 
 ## Status
 
