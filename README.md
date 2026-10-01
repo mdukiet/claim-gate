@@ -1,5 +1,5 @@
 
-<img src="assets/logo/Claim-Gate-logo.png" alt="Logo Claim Gate" width="200" />
+<img src="assets/logo/Claim Gate logo transparent.png" alt="Logo Claim Gate" width="200" />
 
 # Claim Gate
 
