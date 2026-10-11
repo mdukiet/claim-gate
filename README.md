@@ -114,4 +114,6 @@ Copyright (c) 2026 Małgorzata Dukiet. **All rights reserved.** See [LICENSE](LI
 
 **Małgorzata Dukiet**: art director, brand strategist, creative systems / AI workflow design.
 
+See also: [Inference Horizon](https://github.com/mdukiet/inference-horizon), a related project on exploring how justification changes, ages, and loses current applicability over time.
+
 Case study: [View the full case study](https://drive.google.com/file/d/1Wlo-GTUFVOyaBUsa26soB_hiDUUA4CO0/view?usp=drive_link)
